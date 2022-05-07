@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lsylx
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Python, C++, C ...
+- Interested in doing some RFID Research
 Currently lived in Shanghai, China.
 
 <!---
