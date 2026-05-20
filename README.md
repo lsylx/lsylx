@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Python, C++, C ...
 - Interested in doing some RFID Research
-Currently lived in Shanghai, China.
+Currently lived in Japan
 
 <!---
 lsylx/lsylx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
